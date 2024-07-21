@@ -4,3 +4,8 @@ This repository contains the ongoing work for porting the [SuperSymmetry mod fro
 
 ## Porting status tracker
 Includes all content up to commit [c1aa9cbcb032c4bdbac4d112333831c773876ca1](https://github.com/SymmetricDevs/Susy-Core/commit/c1aa9cbcb032c4bdbac4d112333831c773876ca1)
+
+## Project Integration Notice
+The development of this project will continue in the SuperSymmetry-Core-Modern repository as part of its integration into the ModernSymmetricDevs org.
+
+This repository will remain available to archive the progress made up to this point, preserving the development from earlier stages.
